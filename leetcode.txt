@@ -2,4 +2,14 @@
 2. Generate to worstation git
 3  push the master branch to the git
 here comes the problem: I had the same error & spent hours trying to figure it out. Finally I found it. What I didn't know is that pushing like this git push origin branch-x will try to search for branch-x locally then push to remote branch-x.
+5. I am in a detached state and i am going to create a new brach called detach and push to the origin
+5. I am in a detached state and i am going to create a new brach called detach and push to the origin
+5. I am in a detached state and i am going to create a new brach called detach and push to the origin
+5. I am in a detached state and i am going to create a new brach called detach and push to the origin
+5. I am in a detached state and i am going to create a new brach called detach and push to the ob17624d73d538270de07b42314ff02riigin
+
+https://www.cloudbees.com/blog/git-detached-head
+
+
+
 
