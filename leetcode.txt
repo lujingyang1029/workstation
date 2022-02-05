@@ -1,4 +1,5 @@
 1. Add a new branch using the git: git branch -M  master to generate a master branch
 2. Generate to worstation git
 3  push the master branch to the git
+here comes the problem: I had the same error & spent hours trying to figure it out. Finally I found it. What I didn't know is that pushing like this git push origin branch-x will try to search for branch-x locally then push to remote branch-x.
 
