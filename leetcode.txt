@@ -1,0 +1,4 @@
+1. Add a new branch using the git: git branch -M  master to generate a master branch
+2. Generate to worstation git
+3  push the master branch to the git
+
